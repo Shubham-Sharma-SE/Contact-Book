@@ -23,7 +23,7 @@ int main() {
         puts("1. Add Contact");
         puts("2. View All Contacts");
         puts("3. Search Contact");
-	puts("4. Delete Contact ");
+	    puts("4. Delete Contact ");
         puts("5. Update Contact");
         puts("6. Exit");
         printf("Enter choice: ");
